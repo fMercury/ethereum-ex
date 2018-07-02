@@ -1,3 +1,5 @@
+https://medium.com/@everisBrasil/building-a-smart-contract-to-sell-goods-772107f521ac
+
 # ethereum-ex
 
 The Ethereum Example written in Solidity.
